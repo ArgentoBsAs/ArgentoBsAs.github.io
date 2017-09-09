@@ -31,11 +31,11 @@ a:hover{
 /*Custom design */
 #banner{
 	background-image: url(https://images.unsplash.com/photo-1501413334794-233d56ab2c78?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=nano_nastasia-324812.jpg&s=1b8034a3309c7376a2afbd1d37d992b9/1000/600);
-	background-position: 30%; 30%;
 	background-size: cover;
-	padding: 90px; 0;
 	text-align: center;
 	flex-direction: column;
+	padding: 70px;0;
+	background-position: center;
 
 }
 
